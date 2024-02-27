@@ -1,0 +1,14 @@
+C:\Users\gshoj\Documents\_SENAI\ativdadesenaitroppo\bin\Debug\net8.0\ativdadesenaitroppo.exe
+C:\Users\gshoj\Documents\_SENAI\ativdadesenaitroppo\bin\Debug\net8.0\ativdadesenaitroppo.deps.json
+C:\Users\gshoj\Documents\_SENAI\ativdadesenaitroppo\bin\Debug\net8.0\ativdadesenaitroppo.runtimeconfig.json
+C:\Users\gshoj\Documents\_SENAI\ativdadesenaitroppo\bin\Debug\net8.0\ativdadesenaitroppo.dll
+C:\Users\gshoj\Documents\_SENAI\ativdadesenaitroppo\bin\Debug\net8.0\ativdadesenaitroppo.pdb
+C:\Users\gshoj\Documents\_SENAI\ativdadesenaitroppo\obj\Debug\net8.0\ativdadesenaitroppo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gshoj\Documents\_SENAI\ativdadesenaitroppo\obj\Debug\net8.0\ativdadesenaitroppo.AssemblyInfoInputs.cache
+C:\Users\gshoj\Documents\_SENAI\ativdadesenaitroppo\obj\Debug\net8.0\ativdadesenaitroppo.AssemblyInfo.cs
+C:\Users\gshoj\Documents\_SENAI\ativdadesenaitroppo\obj\Debug\net8.0\ativdadesenaitroppo.csproj.CoreCompileInputs.cache
+C:\Users\gshoj\Documents\_SENAI\ativdadesenaitroppo\obj\Debug\net8.0\ativdadesenaitroppo.dll
+C:\Users\gshoj\Documents\_SENAI\ativdadesenaitroppo\obj\Debug\net8.0\refint\ativdadesenaitroppo.dll
+C:\Users\gshoj\Documents\_SENAI\ativdadesenaitroppo\obj\Debug\net8.0\ativdadesenaitroppo.pdb
+C:\Users\gshoj\Documents\_SENAI\ativdadesenaitroppo\obj\Debug\net8.0\ativdadesenaitroppo.genruntimeconfig.cache
+C:\Users\gshoj\Documents\_SENAI\ativdadesenaitroppo\obj\Debug\net8.0\ref\ativdadesenaitroppo.dll
